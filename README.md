@@ -84,7 +84,7 @@ Interactive banking analytics dashboard showing:
 - Daily transaction trends
 - Suspicious transaction detection
 
-![Dashboard Preview](dashboard/dashboard_preview.png)
+![Dashboard Preview](dashboard_screenshot.png)
 
 ## Developed By
 Aman Pandey
