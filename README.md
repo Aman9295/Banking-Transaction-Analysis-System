@@ -76,5 +76,15 @@ This project can be used for:
 
 ---
 
+## Tableau Dashboard Preview
+
+Interactive banking analytics dashboard showing:
+- Transaction monitoring
+- Channel-wise analysis
+- Daily transaction trends
+- Suspicious transaction detection
+
+![Dashboard Preview](dashboard/dashboard_preview.png)
+
 ## Developed By
 Aman Pandey
