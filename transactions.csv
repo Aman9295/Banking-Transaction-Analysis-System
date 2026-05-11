@@ -1,0 +1,16 @@
+Transaction_ID,Customer_ID,Customer_Name,Account_No,Transaction_Date,Transaction_Time,Transaction_Type,Amount,Location,Channel,Status
+TXN001,C101,Aman Pandey,900001,2026-05-01,10:15,Debit,4500,Mumbai,UPI,Success
+TXN002,C102,Rahul Sharma,900002,2026-05-01,11:20,Credit,25000,Pune,NEFT,Success
+TXN003,C103,Neha Singh,900003,2026-05-02,12:05,Debit,75000,Delhi,IMPS,Success
+TXN004,C104,Riya Mehta,900004,2026-05-02,14:30,Debit,12000,Mumbai,ATM,Success
+TXN005,C105,Arjun Rao,900005,2026-05-03,15:45,Credit,95000,Bangalore,RTGS,Success
+TXN006,C101,Aman Pandey,900001,2026-05-03,16:10,Debit,52000,Mumbai,UPI,Success
+TXN007,C106,Karan Shah,900006,2026-05-04,09:25,Debit,3000,Hyderabad,UPI,Failed
+TXN008,C107,Priya Nair,900007,2026-05-04,18:50,Debit,150000,Chennai,RTGS,Success
+TXN009,C108,Vikas Patil,900008,2026-05-05,20:10,Credit,18000,Mumbai,NEFT,Success
+TXN010,C109,Sneha Joshi,900009,2026-05-05,22:40,Debit,65000,Kolkata,IMPS,Success
+TXN011,C110,Aditya Verma,900010,2026-05-06,23:55,Debit,88000,Delhi,UPI,Success
+TXN012,C102,Rahul Sharma,900002,2026-05-06,10:10,Debit,2000,Pune,ATM,Success
+TXN013,C111,Meera Kapoor,900011,2026-05-07,13:00,Credit,40000,Mumbai,NEFT,Success
+TXN014,C112,Rohan Das,900012,2026-05-07,19:30,Debit,110000,Bangalore,RTGS,Success
+TXN015,C113,Isha Khan,900013,2026-05-08,08:15,Debit,500,Ahmedabad,UPI,Success
